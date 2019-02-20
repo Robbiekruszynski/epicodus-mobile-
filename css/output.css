@@ -1,0 +1,19 @@
+.topCase {
+  width: 50%;
+  border: 1px solid red; }
+
+.container {
+  display: flex;
+  justify-content: center; }
+
+.card {
+  display: flex;
+  justify-content: center; }
+
+.navBar {
+  display: flex; }
+  .navBar img {
+    width: 100%;
+    height: 60px; }
+
+/*# sourceMappingURL=output.css.map */
